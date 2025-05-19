@@ -15,8 +15,8 @@ This is a simple React frontend built with **Vite** to display products fetched 
 
 ## 🖼️ Screenshots
 
-| Product UI                     | Vite Running Locally             | API Response in Browser Console      |
-|-------------------------------|----------------------------------|--------------------------------------|
+| Product UI                     | Vite Running Locally             |
+|-------------------------------|----------------------------------|
 | ![Product UI](./screenshots/screenshot-frontend-ui.png) | ![Vite Dev](./screenshots/screenshot-vite-dev.png) | 
 
 ---
