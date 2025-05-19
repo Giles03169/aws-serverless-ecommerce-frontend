@@ -1,16 +1,24 @@
-# 🛒 AWS Serverless eCommerce Frontend (React)
+# 🛒 AWS Serverless eCommerce Frontend
 
-This is a simple React frontend that connects to your AWS Serverless eCommerce backend built with Lambda, API Gateway, and DynamoDB.
+This is a simple React frontend built with **Vite** to display products fetched from a **serverless backend** powered by AWS (API Gateway, Lambda, and DynamoDB).
+
+---
 
 ## 📦 Features
 
-- Fetches product data from API Gateway.
-- Displays name, price, description, and image.
-- Built with Vite for fast dev server & lightweight build.
+- Fetches product data from AWS API Gateway
+- Dynamically renders product listings
+- Styled with minimal layout (no external CSS framework)
+- Optimized with Vite for fast builds and HMR
 
-## 🔧 Setup
+---
 
-### 1. Clone this repo and install dependencies
+## 🖼️ Screenshots
 
-```bash
-npm install
+| Product UI                     | Vite Running Locally             | API Response in Browser Console      |
+|-------------------------------|----------------------------------|--------------------------------------|
+| ![Product UI](./screenshots/screenshot-frontend-ui.png) | ![Vite Dev](./screenshots/screenshot-vite-dev.png) | 
+
+---
+
+## 🔧 Project Structure
